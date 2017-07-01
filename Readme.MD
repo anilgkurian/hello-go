@@ -1,8 +1,8 @@
 Sample Go Programs
 
 To run
-    go run {file name}
+    <code>go run {file name}</code>
 
 Example:
-    go run pointer.go
+    <code>go run pointer.go</code>
 
