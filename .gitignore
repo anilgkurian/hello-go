@@ -5,6 +5,7 @@
 *.dylib
 .idea
 authApp/.env
+vendor
 
 # Test binary, build with `go test -c`
 *.test
